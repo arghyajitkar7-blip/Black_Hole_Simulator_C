@@ -343,12 +343,6 @@ Run from the repository root:
 
 Your graphics driver must still provide OpenGL 4.3+.
 
-Screenshots
-
-Add screenshots or a short demo GIF here after cloning the repository:
-
-![Black Hole Simulation](screenshots/black-hole.png)
-
 Limitations
 
 This project is primarily intended for learning, experimentation, and visualization.
