@@ -1,0 +1,7 @@
+cd /e/blackhole
+gcc blackhole.c -o blackhole.exe -lglfw3 -lglew32 -lopengl32 -lm // 1ST_COMMAND
+
+
+
+  ./blackhole.exe
+// 2ND_COMMAND
